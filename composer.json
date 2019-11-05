@@ -1,0 +1,14 @@
+{
+    "name": "wuyiguanfu/text",
+    "description": "a test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoli",
+            "email": "1148522396@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
